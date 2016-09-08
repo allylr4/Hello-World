@@ -1,5 +1,4 @@
 # Hello-World
-like greetings
 
 /**
  * This is similar to greetings
